@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.1359096b.chunk.css",
-    "main.js": "/static/js/main.2394445b.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.8d1c6f31.js",
-    "static/js/2.56c7c7bb.chunk.js": "/static/js/2.56c7c7bb.chunk.js",
-    "static/js/3.529c88c1.chunk.js": "/static/js/3.529c88c1.chunk.js",
+    "main.js": "/static/js/main.3d63a7fd.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.2a787d2c.js",
+    "static/js/2.914b372b.chunk.js": "/static/js/2.914b372b.chunk.js",
+    "static/js/3.571cd04e.chunk.js": "/static/js/3.571cd04e.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.56c7c7bb.chunk.js.LICENSE.txt": "/static/js/2.56c7c7bb.chunk.js.LICENSE.txt",
+    "static/js/2.914b372b.chunk.js.LICENSE.txt": "/static/js/2.914b372b.chunk.js.LICENSE.txt",
     "static/media/aniviaportrait.5a692e9f.png": "/static/media/aniviaportrait.5a692e9f.png",
     "static/media/apheliosportrait.eb0ed1f7.png": "/static/media/apheliosportrait.eb0ed1f7.png",
     "static/media/asheportrait.5fccdec7.png": "/static/media/asheportrait.5fccdec7.png",
@@ -74,9 +74,9 @@
     "static/media/zoeportrait.96bb7aa1.png": "/static/media/zoeportrait.96bb7aa1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d1c6f31.js",
-    "static/js/2.56c7c7bb.chunk.js",
+    "static/js/runtime-main.2a787d2c.js",
+    "static/js/2.914b372b.chunk.js",
     "static/css/main.1359096b.chunk.css",
-    "static/js/main.2394445b.chunk.js"
+    "static/js/main.3d63a7fd.chunk.js"
   ]
 }
